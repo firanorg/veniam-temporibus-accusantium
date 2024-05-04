@@ -1,6 +1,6 @@
 {
   "name": "@firanorg/veniam-temporibus-accusantium",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -35,7 +35,13 @@
     "@firanorg/soluta-perferendis-tenetur": "^2.0.0",
     "@firanorg/voluptatem-culpa-iusto": "^1.0.1",
     "@firanorg/voluptatem-odit-et": "^1.0.1",
-    "@firanorg/voluptatibus-soluta-dignissimos": "^1.0.1"
+    "@firanorg/voluptatibus-soluta-dignissimos": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "corcojs-qrcode-sample": "^1.0.1",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-prompts-web3": "^1.0.1"
   },
   "keywords": [
     "es7",
